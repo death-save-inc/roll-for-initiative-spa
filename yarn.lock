@@ -1079,27 +1079,27 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babylonjs-gltf2interface@npm:8.55.2":
-  version: 8.55.2
-  resolution: "babylonjs-gltf2interface@npm:8.55.2"
-  checksum: 10c0/b77cec7383d4897682aea01c2a4a3d6f35c90522e922308150962d45a113e1de6bd1d8d880bae04c895c931d44739b3cad21f397eb3f7202eb8bf24532ad21ad
+"babylonjs-gltf2interface@npm:8.56.1":
+  version: 8.56.1
+  resolution: "babylonjs-gltf2interface@npm:8.56.1"
+  checksum: 10c0/3958482dd2ea471d7748300bf20b39a6f41cc51e65329cc1ec06bf5f3b2843b37b31b2bad42782da6590268640818f286b30c4942cd76d3a211eb74e662f9b35
   languageName: node
   linkType: hard
 
-"babylonjs-loaders@npm:^8.55.2":
-  version: 8.55.2
-  resolution: "babylonjs-loaders@npm:8.55.2"
+"babylonjs-loaders@npm:^8.56.1":
+  version: 8.56.1
+  resolution: "babylonjs-loaders@npm:8.56.1"
   dependencies:
-    babylonjs: "npm:8.55.2"
-    babylonjs-gltf2interface: "npm:8.55.2"
-  checksum: 10c0/8fc24941d177e8ce3c90747d12874788ac46bd6306b7193fa33af3b7198930341ca79b9c58514c15518ec44d114140026ef49876babc033df2339fba65bd4fca
+    babylonjs: "npm:8.56.1"
+    babylonjs-gltf2interface: "npm:8.56.1"
+  checksum: 10c0/b5782005e7642164b1f4b8154db39582a896dfe64ff7da5c7824927311c6834ff1f995c23c36378af90a3eddd97163039b7da61810ab61bdc3ee5c55d63c012e
   languageName: node
   linkType: hard
 
-"babylonjs@npm:8.55.2, babylonjs@npm:^8.55.2":
-  version: 8.55.2
-  resolution: "babylonjs@npm:8.55.2"
-  checksum: 10c0/51d8028ce7a2318085a012018629acba6017875416b5d871e79cb3d71e36258796fea9800e9c6675deb4aba18b942db5256b238dda365e3a760d0d06deaeedd0
+"babylonjs@npm:8.56.1, babylonjs@npm:^8.56.1":
+  version: 8.56.1
+  resolution: "babylonjs@npm:8.56.1"
+  checksum: 10c0/a152a270ee89cf3594e361ec4c5731c681d426a1df16f3e5f4c1909fc0bbf90c474200b1353d0e6bcae119d9cb325f08e6278ef528ff13526804518dd2d71a14
   languageName: node
   linkType: hard
 
@@ -2578,8 +2578,8 @@ __metadata:
     "@vue/eslint-config-prettier": "npm:^10.2.0"
     "@vue/eslint-config-typescript": "npm:^14.7.0"
     "@vue/tsconfig": "npm:^0.9.0"
-    babylonjs: "npm:^8.55.2"
-    babylonjs-loaders: "npm:^8.55.2"
+    babylonjs: "npm:^8.56.1"
+    babylonjs-loaders: "npm:^8.56.1"
     bootstrap: "npm:^5.3.8"
     eslint: "npm:^10.0.3"
     eslint-plugin-vue: "npm:^10.8.0"
